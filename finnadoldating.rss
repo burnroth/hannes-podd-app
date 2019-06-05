@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <atom:link href="https://www.finnadoldating.nu/finnadoldating.rss" rel="self" type="application/rss+xml" />
+    <!-- <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:521573115/sounds.rss?before=516341343" rel="next"
+      type="application/rss+xml" /> -->
+    <title>Finna Dolda Ting podcast</title>
+    <link>https://www.finnadoldating.nu</link>
+    <pubDate>Wed, 24 Oct 2018 22:04:42 +0000</pubDate>
+    <lastBuildDate>Wed, 24 Oct 2018 22:04:42 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <language>sv</language>
+    <copyright>All rights reserved</copyright>
+    <webMaster>finnadoldatingpodcast@gmail.com</webMaster>
+    <description>Tre nybörjare spelar rollspel, lett av en spelledare med knappt någon erfarenhet. Det kan med andra
+      ord gå precis hur som helst!</description>
+    <itunes:subtitle>Tre nybörjare spelar rollspel, lett av en spelled?</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>Finna Dolda Ting podcast</itunes:name>
+      <itunes:email>finnadoldatingpodcast@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Hannes Hedlöf</itunes:author>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:image href="https://www.finnadoldating.nu/img/finnadoldatingcoverart.jpg" />
+    <image>
+      <url>https://www.finnadoldating.nu/img/finnadoldatingcoverart.jpg</url>
+      <title>Finna Dolda Ting podcast</title>
+      <link>https://www.finnadoldating.nu</link>
+    </image>
+    <itunes:category text="Games &amp; Hobbies" />
+
+
+    <item>
+      <guid isPermaLink="false">s01e02</guid>
+      <title>S01E02 Bhûl Bhadirs sista utpost</title>
+      <pubDate>Wed, 24 Oct 2018 22:04:42 +0000</pubDate>
+      <link>https://www.finnadoldating.nu</link>
+      <itunes:duration>00:52:56</itunes:duration>
+      <itunes:author>Hannes Hedlöf</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Våra vänner styr kosan mot tornet, men blir chockade när saker och ting inte verkar vara vad de
+        först trodde...
+
+        Spelare:
+        Geralt Vargmannen - krigare
+        Kvarg Aívarsson - dvärgbard
+        Ronny - sjöfararanka
+
+        Äventyret "För en näve stål" är skrivet och spellett av Hannes Hedlöf.
+        Vinjett: At the Edge of the World - Vindsvept.
+
+        För kartor över och fakta om spelvärlden Ashkan:
+        https://drive.google.com/drive/folders/1m_jS1yg24AA5XLTjDlvF2FIk3PQqxdH9?usp=sharing</itunes:summary>
+      <itunes:subtitle>Våra vänner styr kosan mot tornet, men blir chock?</itunes:subtitle>
+      <description>Våra vänner styr kosan mot tornet, men blir chockade när saker och ting inte verkar vara vad de
+        först trodde...
+
+        Spelare:
+        Geralt Vargmannen - krigare
+        Kvarg Aívarsson - dvärgbard
+        Ronny - sjöfararanka
+
+        Äventyret "För en näve stål" är skrivet och spellett av Hannes Hedlöf.
+        Vinjett: At the Edge of the World - Vindsvept.
+
+        För kartor över och fakta om spelvärlden Ashkan:
+        https://drive.google.com/drive/folders/1m_jS1yg24AA5XLTjDlvF2FIk3PQqxdH9?usp=sharing</description>
+      <enclosure type="audio/x-m4a" url="https://www.finnadoldating.nu/avsnitt/s01e02.m4a"
+        length="105108638" />
+      <itunes:image href="https://www.finnadoldating.nu/img/finnadoldatingcoverart.jpg" />
+    </item>
+    <item>
+      <guid isPermaLink="false">s01e01</guid>
+      <title>S01E01 Gurgels gästabud</title>
+      <pubDate>Thu, 18 Oct 2018 19:27:16 +0000</pubDate>
+      <link>https://www.finnadoldating.nu/avsnitt</link>
+      <itunes:duration>00:46:31</itunes:duration>
+      <itunes:author>Hannes Hedlöf</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Utsända på uppdrag av drottningen stöter våra vänner på ett par matglada orcher, och får en ny
+        vän på kuppen.
+
+        Spelare:
+        Geralt Vargmannen - krigare
+        Kvarg Aívarsson - dvärgbard
+        Ronny - sjöfararanka
+
+        Äventyret "För en näve stål" är skrivet och spellett av Hannes Hedlöf.
+        Vinjett: At the Edge of the World - Vindsvept.
+
+        För kartor över och fakta om spelvärlden Ashkan:
+        https://drive.google.com/drive/folders/1m_jS1yg24AA5XLTjDlvF2FIk3PQqxdH9?usp=sharing</itunes:summary>
+      <itunes:subtitle>Utsända på uppdrag av drottningen stöter våra vän?</itunes:subtitle>
+      <description>Utsända på uppdrag av drottningen stöter våra vänner på ett par matglada orcher, och får en ny vän
+        på kuppen.
+
+        Spelare:
+        Geralt Vargmannen - krigare
+        Kvarg Aívarsson - dvärgbard
+        Ronny - sjöfararanka
+
+        Äventyret "För en näve stål" är skrivet och spellett av Hannes Hedlöf.
+        Vinjett: At the Edge of the World - Vindsvept.
+
+        För kartor över och fakta om spelvärlden Ashkan:
+        https://drive.google.com/drive/folders/1m_jS1yg24AA5XLTjDlvF2FIk3PQqxdH9?usp=sharing</description>
+      <enclosure type="audio/x-m4a" url="https://www.finnadoldating.nu/avsnitt/s01e01.m4a"
+        length="92354372" />
+      <itunes:image href="https://www.finnadoldating.nu/img/finnadoldatingcoverart.jpg" />
+    </item>
+
+    <item>
+      <guid isPermaLink="false">prolog</guid>
+      <title>Prolog-avsnitt!</title>
+      <pubDate>Thu, 18 Oct 2018 19:21:17 +0000</pubDate>
+      <link>https://www.finnadoldating.nu</link>
+      <itunes:duration>00:08:23</itunes:duration>
+      <itunes:author>Hannes Hedlöf</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:summary>Vi drar en introduktionsrunda med spelarna och går igenom vad som hände under det första
+        spelmötet som inte spelades in!
+
+        Spelare:
+        Geralt Vargmannen - krigare
+        Kvarg Aívarsson - dvärgbard
+        Mumin - lönnmördaralv
+        Ronny - sjöfararanka
+
+        Äventyret "För en näve stål" är skrivet och spellett av Hannes Hedlöf.
+        Musiksnutt: Crusader - Scott Buckley
+
+        För kartor över och fakta om spelvärlden Ashkan:
+        https://drive.google.com/drive/folders/1m_jS1yg24AA5XLTjDlvF2FIk3PQqxdH9?usp=sharing</itunes:summary>
+      <itunes:subtitle>Vi drar en introduktionsrunda med spelarna och gå?</itunes:subtitle>
+      <description>Vi drar en introduktionsrunda med spelarna och går igenom vad som hände under det första spelmötet
+        som inte spelades in!
+
+        Spelare:
+        Geralt Vargmannen - krigare
+        Kvarg Aívarsson - dvärgbard
+        Mumin - lönnmördaralv
+        Ronny - sjöfararanka
+
+        Äventyret "För en näve stål" är skrivet och spellett av Hannes Hedlöf.
+        Musiksnutt: Crusader - Scott Buckley
+
+        För kartor över och fakta om spelvärlden Ashkan:
+        https://drive.google.com/drive/folders/1m_jS1yg24AA5XLTjDlvF2FIk3PQqxdH9?usp=sharing</description>
+      <enclosure type="audio/x-m4a" url="https://www.finnadoldating.nu/avsnitt/prolog.m4a"
+        length="16963823" />
+      <itunes:image href="https://www.finnadoldating.nu/img/finnadoldatingcoverart.jpg" />
+    </item>
+  </channel>
+</rss>
