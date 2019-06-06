@@ -1,15 +1,17 @@
 {
   "name": "hannes-podd-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hannes ska fan inte betala för att podda",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Marcus Bernroth",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "firebase": "^6.1.0",
+    "firebase-admin": "^8.0.0",
     "xmlbuilder": "^13.0.2"
   }
 }
