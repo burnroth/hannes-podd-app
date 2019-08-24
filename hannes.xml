@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<rss version="1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
-  <xmlbuilder for="node-js">
-    <repo type="git" maggan="git">git://github.com/oozcitak/xmlbuilder-js.git</repo>
-  </xmlbuilder>
-  <test>complete</test>
-</rss>
