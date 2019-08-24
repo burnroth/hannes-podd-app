@@ -6,32 +6,35 @@ var router = express.Router();
 var dirPath = "./hannes.xml";
 
 
+
 // FIREBASE
-var admin = require("firebase-admin");
+
+var admin = require('firebase-admin');
+
 var serviceAccount = require("./serviceAccountKey.json");
-
-
-
-
 admin.initializeApp({
-	credential: admin.credential.cert(serviceAccount),
-	databaseURL: "https://maggan-b2fb6.firebaseio.com"
+  credential: admin.credential.cert(serviceAccount)
 });
 
-var db = admin.database();
-var ref = db.ref("kajak");
+var db = admin.firestore();
 
+db.collection('hejsan').doc('hej').get()
+.then(snap => { console.log(snap)})
+  .then((snapshot) => {
+    snapshot.forEach((doc) => {
+      console.log(doc.id, '=>', doc.data());
+    });
+  })
+  .catch((err) => {
+    console.log('Error getting documents', err);
+  });
 
-ref.on("value", function(snapshot) {
-  console.log(snapshot.val());
-}, function (errorObject) {
-  console.log("The read failed: " + errorObject.code);
-});
+var rssData = {
 
-
+}
 
 var doc = builder
-	.create("root")
+	.create("rss").att("version","1.0").att("xmlns:itunes", "http://www.itunes.com/dtds/podcast-1.0.dtd").att("xmlns:atom", "http://www.w3.org/2005/Atom")
 	.ele("xmlbuilder")
 	.att("for", "node-js")
 	.ele("repo")
